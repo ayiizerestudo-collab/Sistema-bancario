@@ -82,6 +82,4 @@ conta_rafael.mostrar_extrato()
 - Métodos de instância
 - Uso de listas para compor objetos
 
----
 
-Sinta-se à vontade para expandir esse projeto — adicione operações, tipos de conta, autenticação, etc.!
