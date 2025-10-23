@@ -52,4 +52,4 @@ Saldo atual: R$ 100.00
 
 ## Créditos
 
-Desenvolvido por ayiizerestudo-collab com auxílio do GitHub Copilot.
+Desenvolvido por ayiizerestudo
